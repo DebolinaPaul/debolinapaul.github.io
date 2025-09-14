@@ -3,13 +3,9 @@ description: "DPhil Student in Statistics, University of Oxford"
 theme: minima
 url: "https://debolinapaul.github.io"
 
-author:
-  name: "Debolina Paul"
-  email: "debolina.paul@lmh.ox.ac.uk"
-  scholar: "https://scholar.google.co.in/citations?hl=en&user=TDakv1QAAAAJ"
-  orcid: "https://orcid.org/0000-0002-3981-9596"
 
-theme: minima
+author: "Debolina Paul"
+
 
 # Navigation bar (for Minima theme)
 minima:
