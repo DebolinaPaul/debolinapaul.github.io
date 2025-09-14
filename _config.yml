@@ -14,8 +14,6 @@ theme: minima
 # Navigation bar (for Minima theme)
 minima:
   navbar:
-    - title: "Home"
-      url: /
     - title: "About"
       url: /about
     - title: "Publications"
